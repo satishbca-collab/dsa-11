@@ -27,3 +27,17 @@
 ## Searching
 1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
 1. https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description
+
+## IL (Math and Bit)
+1. https://www.geeksforgeeks.org/dsa/largest-number-divides-x-co-prime-y/
+1. https://leetcode.com/problems/four-divisors/
+1. https://practice.geeksforgeeks.org/problems/number-of-open-doors1552/1
+1. https://leetcode.com/problems/unique-paths/
+1. https://leetcode.com/problems/reverse-bits/description/
+1. https://leetcode.com/problems/number-of-1-bits/description/
+1. https://leetcode.com/problems/single-number-iii/description/
+
+## Searching and Recursion
+1. https://leetcode.com/problems/find-peak-element/description
+1. https://www.geeksforgeeks.org/problems/find-unique-number/1
+1. https://leetcode.com/problems/minimum-size-subarray-sum/description
