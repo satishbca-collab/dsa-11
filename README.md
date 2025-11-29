@@ -38,6 +38,21 @@
 1. https://leetcode.com/problems/single-number-iii/description/
 
 ## Searching and Recursion
-1. https://leetcode.com/problems/find-peak-element/description
 1. https://www.geeksforgeeks.org/problems/find-unique-number/1
 1. https://leetcode.com/problems/minimum-size-subarray-sum/description
+
+## Recursion and Backtracking
+1. https://www.geeksforgeeks.org/dsa/product-2-numbers-using-recursion/
+1. https://www.geeksforgeeks.org/dsa/modular-exponentiation-recursive/
+1. https://www.geeksforgeeks.org/problems/palindrome-string0817/1
+1. https://leetcode.com/problems/n-queens/description
+1. https://leetcode.com/problems/permutations/description/
+1. https://leetcode.com/problems/combination-sum/
+
+## IL (Searching and Recursion)
+1. https://leetcode.com/problems/find-peak-element/description
+1. https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
+1. https://www.geeksforgeeks.org/problems/find-unique-number/1
+1. https://www.geeksforgeeks.org/dsa/modular-exponentiation-recursive/
+1. https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
+1. https://leetcode.com/problems/search-a-2d-matrix/
