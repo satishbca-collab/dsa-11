@@ -10,7 +10,6 @@
 1. https://leetcode.com/problems/search-a-2d-matrix-ii/description/
 1. https://leetcode.com/problems/range-sum-query-2d-immutable/
 
-1. https://leetcode.com/problems/trapping-rain-water/description
 1. https://leetcode.com/problems/spiral-matrix-ii/description/
 
 ## Math
@@ -58,3 +57,12 @@
 1. https://leetcode.com/problems/n-queens/description
 1. https://leetcode.com/problems/permutations/description/
 1. https://leetcode.com/problems/combination-sum/
+
+## Sorting
+1. https://leetcode.com/problems/sort-an-array/description/
+
+## 2 Pointers
+1. https://leetcode.com/problems/two-sum
+1. https://leetcode.com/problems/k-diff-pairs-in-an-array/description
+1. https://leetcode.com/problems/subarray-sum-equals-k/description
+1. 1. https://leetcode.com/problems/trapping-rain-water/description
