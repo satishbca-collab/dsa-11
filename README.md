@@ -56,7 +56,6 @@
 ## Backtracking
 1. https://leetcode.com/problems/n-queens/description
 1. https://leetcode.com/problems/permutations/description/
-1. https://leetcode.com/problems/combination-sum/
 
 ## Sorting
 1. https://leetcode.com/problems/sort-an-array/description/
@@ -66,3 +65,22 @@
 1. https://leetcode.com/problems/k-diff-pairs-in-an-array/description
 1. https://leetcode.com/problems/subarray-sum-equals-k/description
 1. 1. https://leetcode.com/problems/trapping-rain-water/description
+
+## Backtracking IL
+1. https://leetcode.com/problems/combination-sum/
+1. https://leetcode.com/problems/palindrome-partitioning/
+1. https://leetcode.com/problems/generate-parentheses/
+1. https://leetcode.com/problems/gray-code/
+1. https://leetcode.com/problems/sudoku-solver/
+
+## Hashing
+1. https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1
+1. https://www.geeksforgeeks.org/problems/consecutive-array-elements2711/1
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+
+## Stack
+1. https://www.geeksforgeeks.org/problems/implement-stack-using-array/1
+1. https://leetcode.com/problems/min-stack/
+1. https://leetcode.com/problems/implement-stack-using-queues
+
+
