@@ -83,4 +83,21 @@
 1. https://leetcode.com/problems/min-stack/
 1. https://leetcode.com/problems/implement-stack-using-queues
 
+## Linked list
+1. https://leetcode.com/problems/middle-of-the-linked-list
+1. https://leetcode.com/problems/linked-list-cycle/description
 
+## Trees
+1. https://leetcode.com/problems/binary-tree-inorder-traversal
+1. https://leetcode.com/problems/binary-tree-preorder-traversal
+1. https://leetcode.com/problems/binary-tree-postorder-traversal
+1. https://leetcode.com/problems/binary-tree-level-order-traversal/description
+1. https://leetcode.com/problems/count-complete-tree-nodes
+1. https://leetcode.com/problems/maximum-depth-of-binary-tree
+1. https://leetcode.com/problems/balanced-binary-tree
+
+## BST and BBST
+1. https://leetcode.com/problems/binary-tree-inorder-traversal/description
+1. https://leetcode.com/problems/validate-binary-search-tree/description
+1. https://practice.geeksforgeeks.org/problems/array-to-bst4443/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab
+1. https://www.geeksforgeeks.org/problems/normal-bst-to-balanced-bst/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks
