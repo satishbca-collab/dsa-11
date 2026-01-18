@@ -106,5 +106,21 @@
 1. https://leetcode.com/problems/counting-words-with-a-given-prefix/description
 1. https://www.geeksforgeeks.org/problems/shortest-unique-prefix-for-every-word/1?utm_medium=article_practice_tab&utm_campaign=article_practice_tab&utm_source=geeksforgeeks
 
+## Greedy
+1. https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1
+1. https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1
+1. https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1
+
 ## Sorting IL
 1. https://leetcode.com/problems/sort-colors/
+
+## DP
+1. https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/
+1. https://leetcode.com/problems/climbing-stairs/description
+1. https://leetcode.com/problems/house-robber/description
+
+## Heap
+1. https://www.geeksforgeeks.org/problems/min-heap-implementation/1
+1. https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
+1. https://leetcode.com/problems/kth-largest-element-in-an-array/description
+
