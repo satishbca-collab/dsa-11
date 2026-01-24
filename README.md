@@ -124,3 +124,9 @@
 1. https://www.geeksforgeeks.org/problems/minimum-cost-of-ropes-1587115620/1
 1. https://leetcode.com/problems/kth-largest-element-in-an-array/description
 
+## IL Hashing
+1. https://leetcode.com/problems/valid-anagram/description/
+1. https://leetcode.com/problems/valid-sudoku/description/
+1. https://leetcode.com/problems/longest-substring-without-repeating-characters/
+
+
