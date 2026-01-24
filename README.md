@@ -130,3 +130,8 @@
 1. https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 
+## DP
+1. https://www.geeksforgeeks.org/dsa/number-of-ways-to-pair-people/
+1. https://leetcode.com/problems/perfect-squares/description
+1. https://leetcode.com/problems/unique-paths/description
+1. https://leetcode.com/problems/coin-change/description
