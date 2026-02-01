@@ -138,10 +138,14 @@
 ## DP3
 1. https://www.geeksforgeeks.org/dsa/maximum-profit-sale-wines/
 1. https://leetcode.com/problems/longest-common-subsequence/description/
-1. https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 
 ## Stack IL
 1. https://leetcode.com/problems/implement-queue-using-stacks/description/
 1. https://leetcode.com/problems/evaluate-reverse-polish-notation/
 1. https://www.geeksforgeeks.org/problems/expression-contains-redundant-bracket-or-not/1
 1. https://leetcode.com/problems/gas-station/description/
+
+## DP4
+1. https://leetcode.com/problems/dungeon-game/description/
+1. https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
+1. https://leetcode.com/problems/maximum-subarray/description/
