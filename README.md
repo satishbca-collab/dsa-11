@@ -149,3 +149,11 @@
 1. https://leetcode.com/problems/dungeon-game/description/
 1. https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1
 1. https://leetcode.com/problems/maximum-subarray/description/
+
+## LL IL
+1. https://leetcode.com/problems/linked-list-cycle-ii/description
+1. https://leetcode.com/problems/reverse-linked-list/description
+1. https://leetcode.com/problems/merge-two-sorted-lists/
+1. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+1. https://leetcode.com/problems/sort-list/description
+1. https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1
