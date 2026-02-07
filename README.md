@@ -157,3 +157,11 @@
 1. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 1. https://leetcode.com/problems/sort-list/description
 1. https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1
+
+## Graph
+1. https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1
+1. https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1
+
+## Graph2
+1. https://leetcode.com/problems/number-of-islands/description/
+1. https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1
