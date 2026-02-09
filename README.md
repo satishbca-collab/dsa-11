@@ -165,3 +165,4 @@
 ## Graph2
 1. https://leetcode.com/problems/number-of-islands/description/
 1. https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1
+1. https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1
