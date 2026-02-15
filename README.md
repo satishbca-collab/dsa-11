@@ -178,4 +178,12 @@
 1. https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/
 1. https://leetcode.com/problems/binary-search-tree-iterator/description/
 1. https://leetcode.com/problems/binary-tree-right-side-view/description/
-1. https://leetcode.com/problems/path-sum/ 
+1. https://leetcode.com/problems/path-sum/
+
+## IL Heaps
+1. https://leetcode.com/problems/last-stone-weight/description/
+1. https://leetcode.com/problems/find-k-pairs-with-smallest-sums/description/
+1. https://leetcode.com/problems/merge-k-sorted-lists/description/
+1. https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/description/
+1. https://leetcode.com/problems/find-median-from-data-stream/description/
+1. https://leetcode.com/problems/k-closest-points-to-origin/description/
